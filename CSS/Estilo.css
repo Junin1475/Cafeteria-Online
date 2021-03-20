@@ -1,0 +1,25 @@
+/*Zerando a pagina do navegador*/
+*{
+    margin: 0px;
+}
+
+#estrutura{
+    background-color: white; /*cor de fundo*/
+    width: 90%; /*largura*/
+    margin-left: auto; /* margem a esquerda*/
+    margin-right: auto; /* margem a direita*/
+}
+#estrutura #titulo{
+    background-image: url("../IMAGENS/cafe2.jpg"); /* imagem dentro do titulo*/
+    background-position: -400px -380px; /*posisção x, y*/
+    color: white;
+    font-size: 15pt;
+    font-family: arial;
+    padding-top: 10px; /*espaçamento no topo*/
+    padding-left: 10px; /*espaçamento a esquerda*/
+    height: 350; /*altura*/
+}
+/*criando uma classe no css, chamada titulo*/
+.titulo{
+    margin-top: 400px;
+}
