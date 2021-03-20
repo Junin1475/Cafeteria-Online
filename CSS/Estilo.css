@@ -27,5 +27,8 @@ p{
     text-align: justify; /*parágrafo*/
     text-indent: 20px; /*recuo de parágrafo*/
     font-family: century gothic;
-    font-size: 15pt;
+    font-size: 14pt;
+}
+#estrutura #menu ul{
+     padding: 0px; /*espaçamento*/
 }
