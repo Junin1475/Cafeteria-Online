@@ -32,3 +32,12 @@ p{
 #estrutura #menu ul{
      padding: 0px;/*espaçamento*/
 }
+#estrutura #menu li{
+    /*Retirar as marcas do marcador*/
+    list-style: none;
+    /*alinhar os links na horizontal*/
+    display: inline-block;
+    width: 220px;
+    text-align: center;
+    padding: 0px 0px;
+}
