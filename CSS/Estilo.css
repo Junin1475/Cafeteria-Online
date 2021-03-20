@@ -23,3 +23,9 @@
 .titulo{
     margin-top: 400px;
 }
+p{
+    text-align: justify; /*parágrafo*/
+    text-indent: 20px; /*recuo de parágrafo*/
+    font-family: century gothic;
+    font-size: 15pt;
+}
