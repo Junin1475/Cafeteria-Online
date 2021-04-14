@@ -37,10 +37,9 @@ p{
     list-style: none;
     /*alinhar os links na horizontal*/
     display: inline-block;
-    width: 100%;
+    width: 200px;
     text-align: center;
     padding: 0px 0px;
-    height: 50vw;
 }
 #estrutura #menu a{
     /* href */
