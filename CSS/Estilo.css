@@ -39,8 +39,8 @@ p{
     display: inline-block;
     width: 100%;
     text-align: center;
-    padding: 0px 0px;
-    height: 50px;
+    padding: 5px 0px;
+    height: 30px;
 }
 #estrutura #menu a{
     /* href */
